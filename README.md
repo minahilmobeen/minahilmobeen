@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**minahilmobeen/minahilmobeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Minahil!
 
-Here are some ideas to get you started:
+I'm a Richmond Scholar studying Economics and Computer Science at the University of Richmond.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in building practical solutions at the intersection of technology, finance, and business strategy. My experience spans software development, applied AI, quantitative research, financial analysis, and entrepreneurship.
+
+### Featured Projects
+
+- **[AI First-Year Advising Assistant](https://github.com/minahilmobeen/ai-first-year-advising-assistant)** — An academic advising platform built with Python, FastAPI, and SQL to support personalized, data-driven recommendations.
+- **[Personal CRM](https://github.com/minahilmobeen/personal-crm)** — A contact management application exploring local LLM integration and email-based information retrieval.
+- **[Transfer Course Matching Tool](https://github.com/minahilmobeen/transfer-course-matching-tool)** — A tool using embedding-based retrieval to support academic course matching.
+
+### Technologies
+
+Python · SQL · FastAPI · R · Java · C++ · Excel · LLM Applications
+
+### Connect
+
+- [LinkedIn](https://www.linkedin.com/in/minahil-mobeen/)
+- [Portfolio](https://minahilmobeenmobeen.myportfolio.com/)
